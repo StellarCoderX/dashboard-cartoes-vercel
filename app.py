@@ -99,7 +99,7 @@ def dashboard():
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dashboard Cartões - Supabase</title>
+    <title>Cx2 CC FULL - Supabase</title>
     <style>
         * {
             margin: 0;
