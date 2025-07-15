@@ -335,7 +335,7 @@ def dashboard():
 <body>
     <div class="container">
         <div class="header">
-            <h1>🎯 Dashboard Cartões Aprovados</h1>
+            <h1>🎯 Cx2 CC FULL / Aprovados</h1>
             <p><span class="status-indicator status-online"></span>Conectado ao Supabase</p>
         </div>
         
